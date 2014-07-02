@@ -14,13 +14,14 @@
 	</script>
 </head>
 <body background="bg.jpg">
-
+	
 	<div style="background: none repeat scroll 0 0 #FFFFFF;
     border-radius: 5px;
     float: left;
     margin: 110px 68px auto 378px;
     padding: 9px;
     width: 500px;">
+	<h3>Two users are working on this App</h3>
     <div style=" float: left;
     overflow: hidden;
     width: 500px;">
