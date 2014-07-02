@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Admission Result</title>
+	<title>Admission Result Application</title>
     <script>
 		function validateForm()
 		{
